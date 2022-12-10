@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0",
     "firebase": "^7.4.0",
     "fs": "^0.0.2",
